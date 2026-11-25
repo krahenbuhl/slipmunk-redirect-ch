@@ -1,2 +1,4 @@
-# slipmunk-redirect-ch
-HTTPS redirect from slipmunk.ch to slipmunk.app.
+# Slipmunk domain redirect
+
+GitHub Pages serves the redirect for `slipmunk.ch` and its `www` subdomain.
+The product website lives at [slipmunk.app](https://slipmunk.app/).
